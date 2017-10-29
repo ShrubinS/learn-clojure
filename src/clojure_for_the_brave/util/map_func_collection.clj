@@ -1,4 +1,4 @@
-(ns map-func-collection)
+(ns clojure-for-the-brave.util.map-func-collection)
 
 (def sum #(reduce + %))
 
